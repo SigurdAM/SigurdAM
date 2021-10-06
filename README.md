@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SigurdAM
 - 👀 I’m interested in arduino and user interaction
-- 🌱 I’m currently learning Unreal Egninge
+- 🌱 I’m currently learning Unreal Engine
 
 
 <!---
